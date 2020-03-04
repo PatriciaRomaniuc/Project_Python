@@ -1,0 +1,8 @@
+1 Ion 5
+2 Ioana 6
+3 Mihai 6
+4 Andreea 7
+5 Ana 6
+6 Gigi 4
+10 maria 4
+9 Pop 224
